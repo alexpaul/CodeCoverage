@@ -13,7 +13,7 @@ Code coverage shows you which of your app’s code paths are being tested. When 
 
 ## 1. Add Unit Test Target 
 
-Click on the Test Navigator and add new Unit Test Target
+Click on the Test Navigator and add new Unit Test Target. For a higher code coverage aim to write unit tests for all functions you write throughout your application.
 
 ## 2. Add Code Coverage 
 
