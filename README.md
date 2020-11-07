@@ -21,8 +21,8 @@ Click on the Test Navigator and add new Unit Test Target
 
 2. Click on Edit Scheme. 
 3. Click on Test option in the left pane. 
+![click test and options](https://user-images.githubusercontent.com/1819208/98440884-6500d200-20c9-11eb-8696-36ca9ccfc892.png)
 
-![]()
 1. Select Options. 
 4. Check the box next to Code Coverage and click Close. 
 ![]()
