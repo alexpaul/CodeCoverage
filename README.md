@@ -5,6 +5,10 @@ Code coverage shows you which of your app’s code paths are being tested. When 
 ![code coverage](https://developer.apple.com/library/archive/documentation/ToolsLanguages/Conceptual/Xcode_Overview/Art/Code_Coverage_report_2x.png)
 
 
+## Navigation Pane options 
+
+![navigation pane options](https://user-images.githubusercontent.com/1819208/98440777-aba1fc80-20c8-11eb-9b74-e47e582f9da2.jpg)
+
 ## 1. Add Unit Test Target 
 
 Click on the Test Navigator and add new Unit Test Target
