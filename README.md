@@ -1,5 +1,7 @@
 # Code Coverage
 
+[YouTube Video Lesson](https://www.youtube.com/watch?v=JmAgHz-Y8KA)
+
 Code coverage shows you which of your app’s code paths are being tested. When you run a set of tests with code coverage enabled, Xcode tracks how many times each branch in your code is called. The test report shows a hierarchical view of test coverage for each file.
 
 ![code coverage](https://developer.apple.com/library/archive/documentation/ToolsLanguages/Conceptual/Xcode_Overview/Art/Code_Coverage_report_2x.png)
