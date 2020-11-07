@@ -13,15 +13,15 @@ Click on the Test Navigator and add new Unit Test Target
 
 1. Navigate to the Scheme Editor. 
 2. Click on Edit Scheme. 
-3. Click on Test Target. 
+3. Click on Test option in the left pane. 
+1. Select Options. 
 4. Check the box next to Code Coverage and click Close. 
-5. You also have the option to select which targets you want to test. 
 
 ## 3. Report Navigator 
 
 1. Run your tests by clicking on the test or Cmd-U. 
 2. Navigate to the Report Navigator. 
-3. Select Coverage and view all the code coverage for you app. 
+3. Select the lastest Test and click on Coverage to view all the code coverage for you app. 
 
 ## 4. View controller tests
 
