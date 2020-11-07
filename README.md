@@ -25,7 +25,7 @@ Click on the Test Navigator and add new Unit Test Target
 
 1. Select Options. 
 4. Check the box next to Code Coverage and click Close. 
-![]()
+![select gather coverage](https://user-images.githubusercontent.com/1819208/98440913-9da0ab80-20c9-11eb-939d-5dcc611ab809.png)
 
 ## 3. Report Navigator 
 
