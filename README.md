@@ -38,6 +38,8 @@ Click on the Test Navigator and add new Unit Test Target
 
 3. Select the lastest Test and click on Coverage to view all the code coverage for you app. 
 
+![code coverage](https://user-images.githubusercontent.com/1819208/98441547-17866400-20cd-11eb-9b88-c2b40bd9ad52.png)
+
 ## 4. View controller tests
 
 ```swift 
