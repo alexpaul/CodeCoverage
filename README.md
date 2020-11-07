@@ -38,7 +38,7 @@ Click on the Test Navigator and add new Unit Test Target. For a higher code cove
 
 3. Select the lastest Test and click on Coverage to view all the code coverage for you app. 
 
-![code coverage](https://user-images.githubusercontent.com/1819208/98441547-17866400-20cd-11eb-9b88-c2b40bd9ad52.png)
+![code coverage](https://user-images.githubusercontent.com/1819208/98441633-95e30600-20cd-11eb-9021-a71cb0a25204.png)
 
 ## 4. View controller tests
 
