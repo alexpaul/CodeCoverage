@@ -15,11 +15,17 @@ Click on the Test Navigator and add new Unit Test Target
 
 ## 2. Add Code Coverage 
 
-1. Navigate to the Scheme Editor. 
+1. Navigate to the Scheme Editor.
+
+![scheme editor](https://user-images.githubusercontent.com/1819208/98440844-2834db00-20c9-11eb-9a1f-fd31a6778790.png)
+
 2. Click on Edit Scheme. 
 3. Click on Test option in the left pane. 
+
+![]()
 1. Select Options. 
 4. Check the box next to Code Coverage and click Close. 
+![]()
 
 ## 3. Report Navigator 
 
