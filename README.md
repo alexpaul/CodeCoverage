@@ -31,6 +31,8 @@ Click on the Test Navigator and add new Unit Test Target
 
 1. Run your tests by clicking on the test or Cmd-U. 
 2. Navigate to the Report Navigator. 
+![navigation pane options](https://user-images.githubusercontent.com/1819208/98440777-aba1fc80-20c8-11eb-9b74-e47e582f9da2.jpg)
+
 3. Select the lastest Test and click on Coverage to view all the code coverage for you app. 
 
 ## 4. View controller tests
